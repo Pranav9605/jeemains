@@ -1,0 +1,718 @@
+[
+  {
+    "question": "A metallic wire of uniform mass density having mass M and length l is bent to form a\nsemicircle. A point mass m is kept at the centre of the semicircle. Find the gravitational\nforced experienced by m.\nAns.\n2  G\nL\nM\n2\nm\nSol. r =\nL\n\nd g =\nG d\nr\nm\n2\ns in \n=\nG\n2r\nM\nL\nr d  s in \n=\nG\ng\n=\nG\nr\n.\nM\nL\n0\ns in  d \ng =\nG\nr\nM\nL\n( 2 )\nF = mg\nGM\n= m2\nrL\n=\n2 G M\nL\nm \nL\n=\n2  G\nL\nM\n2\nm\n2. 5 convex lens are kept together each having power of 25 D. Find the focal length.\nAns. 0.8 cm\nSol. P\ne q\n= P  5\n= 25 × 5\n= 125D\n1\nfe\nq\n= 1 2 5 m\n=\n1\n1\n0\n2\n0\n5\ncm\n=\n4\n5\ncm\n= 0.8 cm\n3. Position of a particle is related to time as given equation\nx = t4 + 6t2 + 2t\nFind its acceleration at t = 5 sec.\nAns. 480 m/s2\nSol. V =\nd\nd\nx\nt\nJEE | NEET | Class 8 - 10 Download eSaral App\nV =4t3 +18t2 +2\ndV\na =\ndt\n= 12t2 + 36 t\nAt t = 5 sec\na = 12 × 25 + 36 × 5\n= 300 + 180\n= 480 m/s2\nJEE-Main-04-04-2024 Morning Shift www.esaral.com 11\n4. A body moving with constant acceleration covers 102.5 m in nth second of its motion and\ncovers 115.0 m in (n + 2)th second then find its acceleration.\nAns. 6.25 m/s2\nSol. Let, acceleration = a (constant)\nS\nn th\n= u +\na\n2\n[ 2 n – 1 ] = 1 0 2 .5 …(i)\nS\n(n + 2 th)\n= u +\na\n2\n[ 2 ( n + 2 ) – 1 ] = 1 1 5\n u +\na\n2\n[ 2 n + 3 ] = 115 …(ii)\nby using (i) and (ii)\n1 0 2 .5 –\na\n2\n[ 2 n – 1 ] +\na\n2\n[ 2 n + 3 ] = 1 1 5\n 1 0 2 .5 +\na\n2\n+\n3 a\n2\n= 1 1 5\n 2a = 115 – 102.5\n12.5\na = =6.25m/s2\n2\n5. A particles of mass m dropped from height h above the ground. After collision, rises to height\nh/2, Then loss in energy during collision and speed of particle just before collision\nrespectively are.\n(1) 50%, 2 g h (2) 4 0 % , 2 g h (3) 50%, g h (4) 40%, g h",
+    "answer": "1"
+  },
+  {
+    "question": "If the electric field vector at a point in an electromagnetic wave is given by\nE = 4 0 c o s \n\nt −\nz\nc\n\nˆi then corresponding B will be:\n z\nSol. E =40cost– ˆi\n c\n| E =| 4 0 c o s \n\nt –\nz\nc\n\n|E|\n=C\n|B|\n40  z\n|B|= cost– ; also\nC  C\nE . B = 0\nJEE | NEET | Class 8 - 10 Download eSaral App\n7. Infinite charge sheet in xy plane of surface charge density  and infinite long wire of linear\ncharge density  placed at (0, 0, 4) and  = 2. Then net electric field (0, 0, 2).\n 2r−1\nAns. E   N/C\nnet   2r \n0\nSol. Given :  = 2\nJEE-Main-04-04-2024 Morning Shift www.esaral.com 12\nE =\nnet\n2\n\n\n0\n−\n2 K\nr\n\nE\nnet\n=\n2\n2\n\n\n0\n−\n4\n2\n\n\n\n0\nr\nE =\nnet\n=\n2\n2\n\n\n0\n−\n4\n2\n\n\n\n0\nr\n\n\n\n0\n 2 \n2\nr\n\n−\nr\n1 \nN/C\n8. A hollow cylinder and solid sphere of same mass and radius are rolling with same initial\nvelocity v on a rough inclined plane. Find the ratios of their kinetic energies and maximum\nheight reached by them.\nAns.\n1 0\n7\nSol. K =\ncylinder\n1\n2\nM V 2 +\n1\n2\nIc\nm\n 2 =\n1\n2\nM V 2 +\n1\n2\n(M R 2 )\n V\nR\n\n2\n= MV2\n1 1\nK = I 2 + MV2\nsphere 2 cm 2\n=\n1\n2\n 2\n5\nM R 2\n  V\nR\n\n2\n+\n1\n2\nM V 2\n=\n1\n5\nM V 2 +\n1\n2\nM V 2\n=\n7\n1 0\nM V 2\n\nK 10\ncylinder\n=\nk 7\nsphere\nAt top point kinetic energy will convert into potential energy\nM\nM\ng\ng\nh\nh\nc y lin d e r\ns p h e re\n=\n1 0\n7\n\nh\nh\nc y lin\ns p h\nd e r\ne re\n=\n1 0\n7\n2nt 2x\n9. In given equation y =2Asin cos . Find the dimension of n.\n     \nAns. [n] = [L1T–1]\nSol. [n] \n[ 2  n\n[ ]\nt ]\n+ M 0 L 0 T 0\nJEE | NEET | Class 8 - 10 Download eSaral App\n[n][T1]\n=M0L0T0\n[L1]\n[n] = [L1T–1]\nJEE-Main-04-04-2024 Morning Shift www.esaral.com 13\n10. When a conducting platinum wire is placed in ice, its resistance is 8 and when placed in\nsteam it is 10. Find the resistance of wire at 400°C.\nAns. 8.8\nSol. R = R (1 + T)\nT 0\nR\n0\nat 0° 8\nR at 100°C → 10\nT\n10 = 8(1 + (100))\n1 0\n8\n= 1 + 1 0 0 \n 1 0\n8\n− 1\n\n\n1\n1\n0 0\n= \n2 1\n = \n8 100\n1\n =\n400\nR at 40°\nR = R\n0\n( 1 +   T )\n= 8\n\n1 +\n4\n1\n0 0\n 4 0\n\n 1 \n= 8 1+ \n 10\n=\n1 1\n1 0\n8\nR = 8.8\nv u\n11. Fractional error in image distance and object distance are and then find the\nv u\nfractional error in focal length of the given spherical mirror.\nAns. \nd f\nf\n=\nu\nu\n+\nv\nv\n d\nv\nv\n2\n+\nd\nu\nu\n2\n\nSol.\n1\nf\n=\n1\nv\n+\n1\nu\n1\nf\n=\nu\nu\n+\nv\nv\nuv\nf =\nu+v\n1 dv du\n − df = − −\nf2 v2 u2\n\nd f\nf\n= f\n 1\nv\nd v\nv\n+\n1\nu\nd\nu\nu \n\nd f\nf\n=\nu\nu\n+\nv\nv\n d\nv\nv\n2\n+\nd\nu\nu\n2\n\nJEE | NEET | Class 8 - 10 Download eSaral App\n12. Instantaneous current in a circuit is zero. In which of the options voltage will be maximum.\n(a) L (b) C (c) R (d) LC\n(1) ABD (2) B (3) BC (4) D\nJEE-Main-04-04-2024 Morning Shift www.esaral.com 14",
+    "answer": "1"
+  },
+  {
+    "question": "x and y coordinates of a body performing some motion is given as:\nx = 3 + 4t\ny = 3t2 + 4t\nIdentify the trajectory of motion.\n(1) Parabola (2) Circular (3) Straight line (4) Hyperbola",
+    "answer": "1"
+  },
+  {
+    "question": "Let a curve y = f(x) pass through the points (0, 5)\nand (log2, k). If the curve satisfies the differential\ne4 1\n\nelog ex211 \n\nequatione\n2(3 + y)e2xdx – (7 + e2x)dy = 0, then k is\n1. The value of  dx is\ne2 x  elog ex211 e6log ex211  \n\nequal to\n(1) 16 (2) 8\n(1) log2 (2) 2\ne (3) 32 (4) 4\n(3) 1 (4) e2 N",
+    "answer": "2"
+  },
+  {
+    "question": "Let f(x) = logx and g(x) .\ndx e 2x2 2x1\n2. Let I(x) .\n11 15 Then the domain of fog is\nx11 13x15\n13\n(1) E (2) (0, )\n \n1 1 1\nIf I(37) – I(24) =   , b, c  , then (3) [0, ) (4) [1, )\n4 1 1 \nb13 c13 ",
+    "answer": "1"
+  },
+  {
+    "question": "Let the arc AC of a circle subtend a right angle at\nL\nthe centre O. If the point B on the arc AC, divides\n(1) 40 (2) 39\nlength of arc AB 1\n(3) 22 (4) 26 the arc AC such that  , and\nlength of arc BC 5",
+    "answer": "2"
+  },
+  {
+    "question": "If the function\nto\n\n2\n sink 1xsink 1x , x0\nx 1 2 (1) 2 3 (2) 2 3\nA\n\nf(x) 4 , x0 (3) 5 3 (4) 2 3\n\n 2\nlog\n\n\n2k 1x \n , x0",
+    "answer": "1"
+  },
+  {
+    "question": "If the first term of an A.P. is 3 and the sum of its\nfirst four terms is equal to one-fifth of the sum of\nis continuous at x = 0, then k2 + k2 is equal to\n1 2\nthe next four terms, then the sum of the first\n(1) 8 (2) 20\n20 terms is equal to\n(3) 5 (4) 10\n(1) –1200 (2) –1080",
+    "answer": "4"
+  },
+  {
+    "question": "If the line 3x – 2y + 12 = 0 intersects the parabola",
+    "answer": "2"
+  },
+  {
+    "question": "Let P be the foot of the perpendicular from the\nthe parabola, the line segment AB subtends an point Q(10, –3, –1) on the line\nangle equal to x3 y2 z1\n  . Then the area of the right\n11  3 7 1 2\n(1) tan1   (2) tan1  \n 9  2 2 angled triangle PQR, where R is the point (3, –2, 1),\nis\n4 9\n(3) tan1   (4) tan1   (1) 9 15 (2) 30\n5 7\n(3) 8 15 (4) 3 30",
+    "answer": "4"
+  },
+  {
+    "question": "The value of (sin70°)(cot10°cot70° – 1) is\n10. Let  , z  , be the equation of a circle\n2zi 3\n(1) 1 (2) 0\nwith center at C. If the area of the triangle, whose\n(3) 3/2 (4) 2/3\nvertices are at the points (0, 0), C and (, 0) is 11",
+    "answer": "1"
+  },
+  {
+    "question": "Marks obtains by all the students of class 12 are\n(1) 100 (2) 50\npresented in a frequency distribution with classes\n121 81\n(3) (4)\nof equal width. Let the median of this grouped data\n25 25\nbe 14 with median class interval 12-18 and median",
+    "answer": "1"
+  },
+  {
+    "question": "If the number of students\n11. Let R = {(1, 2), (2, 3), (3,3)} be a relation defined\non the set {1, 2, 3, 4}. Then the minimum number whose marks are less than 12 is 18, then the total\nof elements, needed to be added in R so the R number of students is\nbecomes an equivalence relation, is :\n(1) 48 (2) 44\n(1) 10 (2) 8\n(3) 40 (4) 52\n(3) 9 (4) 7",
+    "answer": "2"
+  },
+  {
+    "question": "Let the position vectors of the vertices A, B and C\n12. The number of words, which can be formed using\nall the letters of the word “DAUGHTER”, so that all of a tetrahedron ABCD be\nthe vowels never come together, is\n(1) 34000 (2) 37000\n(3) 36000 (4) 35000",
+    "answer": "3"
+  },
+  {
+    "question": "Let the area of a PQR with vertices P(5, 4), Q(–2, 4)\nand R(a, b) be 35 square units. If its orthocenter\n 14\nand centroid are O2,  and C(c, d) respectively,\n 5 \nthen c + 2d is equal to\n7 (1) (2) 3\n3\n8\n(3) 2 (4)\n3",
+    "answer": "2"
+  },
+  {
+    "question": "If x , then cos1  cosx sinx is\n2 4 13 13 \nequal to\n4 5\n(1) x – tan–1 (2) x – tan–1\n3 12\n4 5\n(3) x + tan–1 (4) x + tan–1\n5 12",
+    "answer": "2"
+  },
+  {
+    "question": "If A, B and (adj(A–1) + adj(B–1)) are non-singular\nmatrices of same order, then the inverse of\nA(adj(A–1) + adj(B–1))–1B, is equal to\n(1) AB–1 + A–1B (2) adj(B–1) + adj(A–1)\n1 AB1 BA1\n(3) (adj(B) +adj(A)) (4) \nAB A B",
+    "answer": "3"
+  },
+  {
+    "question": "If the system of equations 24. If the set of all values of a, for which the equation\n5x3 – 15x – a = 0 has three distinct real roots, is the\n( – 1)x + ( – 4)y + z = 5\ninterval (, ), then  –2 is equal to ________\nx + ( – 1)y + ( –4)z = 7",
+    "answer": "30"
+  },
+  {
+    "question": "If the equation a(b – c)x2 + b(c – a)x + c(a – b) = 0\nhas infinitely many solutions, then 2 +  is equal\n36\nto has equal roots, where a + c = 15 and b , then\n5\n(1) 10 (2) 12\na2 + c2 is equal to ________\n(3) 6 (4) 20",
+    "answer": "117"
+  },
+  {
+    "question": "One die has two faces marked 1, two faces marked\n2, one face marked 3 and one face marked 4.\nAnother die has one face marked 1, two faces\nmarked 2, two faces marked 3 and one face marked\n4. The probability of getting the sum of numbers to E\nbe 4 or 5, when both the dice are thrown together,\nis\n1 3\n(1) (2)\n2 5 L\n2 4\n(3) (4)\n3 9",
+    "answer": "1"
+  },
+  {
+    "question": "If the area of the larger portion bounded between\nA\n1\nthe curves x2 + y2 = 25 and y = |x – 1| is (b + c),\n4\nb, c  , then b + c is equal to ________",
+    "answer": "77"
+  },
+  {
+    "question": "The sum of all rational terms in the expansion of\n(1 + 21/3 + 31/2)6 is equal to _______",
+    "answer": "612"
+  },
+  {
+    "question": "Let the circle C touch the line x – y + 1 = 0, have\nthe centre on the positive x-axis, and cut off a\n4\nchord of length along the line –3x + 2y = 1.\n13\nx2 y2\nLet H be the hyperbola  1, whose one of\n2 2\nthe foci is the centre of C and the length of the\ntransverse axis is the diameter of C. Then 22 + 32\nis equal to ________",
+    "answer": "19"
+  },
+  {
+    "question": "A sub-atomic particle of mass 10–30 kg is moving\n26. Regarding self-inductance : with a velocity 2.21 × 106 m/s. Under the matter\nA : The self-inductance of the coil depends on its wave consideration, the particle will behave\ngeometry. closely like ______. (h = 6.63 × 10–34 J.s)\n(1) Infra-red radiation (2) X-rays\nB : Self-inductance does not depend on the\n(3) Gamma rays (4) Visible radiation\npermeability of the medium.",
+    "answer": "2"
+  },
+  {
+    "question": "A spherical surface of radius of curvature R,\ncurrent in a circuit.\nseparates air from glass (refractive index = 1.5).\nD : Self-inductance is electromagnetic analogue of\nThe centre of curvature is in the glass medium. A\nmass in mechanics.\npoint object ‘O’ placed in air on the optic axis of\nE : Work needs to be done against self-induced\nthe surface, so that its real image is formed at ‘I’\ne.m.f. in establishing the current.\ninside glass. The line OI intersects the spherical\nChoose the correct answer from the options given\nsurface at P and PO = PI. The distance PO equals\nbelow:\nto-\n(1) A, B, C, D only (2) A, C, D, E only\n(1) 5R (2) 3R\n(3) A, B, C, E only (4) B, C, D, E only\n(3) 2R (4) 1.5R",
+    "answer": "2"
+  },
+  {
+    "question": "A light hollow cube of side length 10 cm and mass\n31. A radioactive nucleus n has 3 times the decay\n2\n10g, is floating in water. It is pushed down and\nconstant as compared to the decay constant of\nreleased to execute simple harmonic oscillations.\nanother radioactive nucleus n. If initial number of\n1\nThe time period of oscillations is y × 10–2 s, both nuclei are the same, what is the ratio of\nwhere the value of y is number of nuclei of n to the number of nuclei of\n2\n(Acceleration due to gravity, g = 10 m/s2, density n, after one half-life of n?\n1 1\nof water = 103 kg/m3) (1) 1/4 (2) 1/8\n(1) 2 (2) 6 (3) 4 (4) 8\n(3) 4 (4) 1",
+    "answer": "1"
+  },
+  {
+    "question": "Identify the valid statements relevant to the given\n28. Given below are two statements: circuit at the instant when the key is closed.\nStatement-I : The hot water flows faster than cold\nwater.\nStatement-II : Soap water has higher surface\ntension as compared to fresh water.\nIn the light above statements, choose the correct\nanswer from the options given below\n(1) Statement-I is false but Statement II is true\n(2) Statement-I is true but Statement II is false\n(3) Both Statement-I and Statement-II are true\n(4) Both Statement-I and Statement-II are false",
+    "answer": "2"
+  },
+  {
+    "question": "Consider a moving coil galvanometer (MCG) :\nbelow : A : The torsional constant in moving coil\ngalvanometer has dimensions [ML2T–2]\n(1) C, D only (2) B, C, D only\nB : Increasing the current sensitivity may not\n(3) A, C only (4) A, B, D only\nnecessarily increase the voltage sensitivity.",
+    "answer": "2"
+  },
+  {
+    "question": "The position of a particle moving on x-axis is (2N), then the voltage sensitivity doubles.\ngiven by x(t) = A sin t + B cos2t + Ct2 + D, where t D : MCG can be converted into an ammeter by\nintroducing a shunt resistance of large value in\nABC\nis time. The dimension of is- N\nD parallel with galvanometer.\nE : Current sensitivity of MCG depends inversely\n(1) L (2) L3 T–2\non number of turns of coil.\n(3) L2 T–2 (4) L2\nChoose the correct answer from the options given",
+    "answer": "3"
+  },
+  {
+    "question": "Match the List-I with List-II (1) A, B only (2) A, D, only\nList-I List-II (3) B, D, E only (4) A, B, E only\nL",
+    "answer": "1"
+  },
+  {
+    "question": "A point particle of charge Q is located at P along\ninversely with volume process\nthe axis of an electric dipole 1 at a distance r as\nof an ideal gas.\nshown in the figure. The point P is also on the\nL\nB. Heat absorbed goes II. Isochoric equatorial plane of a second electric dipole 2 at a\npartly to increase process distance r. The dipoles are made of opposite charge\nq separated by a distance 2a. For the charge\ninternal energy and\nA\nparticle at P not to experience any net force, which\npartly to do work.\nof the following correctly describes the situation?\nC. Heat is neither III Isothermal\nabsorbed nor released . process P +q –q\nDipole 1\nby a system\nr\nD. No work is done on or IV Isobaric r\n2a\nby a gas . process\n+q –q\nChoose the correct answer from the options given\nDipole 2\n2a\nbelow :\n(1) A–I, B–IV, C–II, D–III\n(2) A–III, B–I, C–IV, D–II a a\n(1) 20 (2) ~10\nr r\n(3) A–I, B–III, C–II, D–IV\na a\n(4) A–III, B–IV, C–I, D–II (3) ~0.5 (4) ~3\nr r",
+    "answer": "4"
+  },
+  {
+    "question": "A gun fires a lead bullet of temperature 300K into Choose the correct answer from the options given\na wooden block. The bullet having melting below:\ntemperature of 600 K penetrates into the block and\nmelts down. If the total heat required for the\nprocess is 625 J, then the mass of the bullet is ___\ngrams.\n(Latent heat of fusion of lead = 2.5 × 104 JKg–1 and\nspecific heat capacity of lead = 125 JKg–1 K–1)\n(1) 20 (2) 15\n(3) 10 (4) 5",
+    "answer": "3"
+  },
+  {
+    "question": "What is the lateral shift of a ray refracted through a\nparallel-sided glass slab of thickness ‘h’ in terms of\nthe angle of incidence ‘i’ and angle of refraction\n‘r’, if the glass slab is placed in air medium ?\nhtan(ir) hcos(ir)\n(1) (2)\ntanr sinr\nhsin(ir)\n(3) h (4)\ncosr",
+    "answer": "4"
+  },
+  {
+    "question": "A solid sphere of mass ‘m’ and radius ‘r’ is\nallowed to roll without slipping from the highest\npoint of an inclined plane of length ‘L’ and makes\nan angle 30º with the horizontal. The speed of the\nparticle at the bottom of the plane is v. If the angle\n1\nof inclination is increased to 45º while keeping L\nconstant. Then the new speed of the sphere at the\nbottom of the plane is v. The ratio of v2 : v2 is\n2 1 2\n(1) 1 : 2 (2) 1 : 3\n(3) 1 : 2 (4) 1 : 3",
+    "answer": "1"
+  },
+  {
+    "question": "Refer to the circuit diagram given in the figure,\nwhich of the following observation are correct?\nA. Total resistance of circuit is 6.\nB. Current in Ammeter is 1A\nC. Potential across AB is 4 Volts.\nD. Potential across CD is 4 Volts.\nE. Total resistance of the circuit is 8.\n3\nC\nA\n4\nA\nD\nE = 6V\n4 4\nB\nN\n(1) A, B and D only\n(2) A, C and D only\n(3) B, C and E only\n(4) A, B and C only\nE",
+    "answer": "1"
+  },
+  {
+    "question": "The electric flux is  =  + \nwhere  and  are linear and surface charge\nL\n\ndensity, respectively,   represents\n\n(1) charge (2) electric field\nL (3) displacement (4) area",
+    "answer": "3"
+  },
+  {
+    "question": "Given a thin convex lens (refractive index ), kept\n2\nA in a liquid (refractive index ,  < ) having\n1 1 2\nradii of curvature |R| and |R|. Its second surface is\n1 2\nsilver polished. Where should an object be placed\non the optic axis so that a real and inverted image\nis formed at the same place ?\n R .R\n(1) 1 1 2\n \n R  R  R\n2 1 2 1 1\n R .R\n(2) 1 1 2\n \n R  R  R\n2 1 2 1 2\n R .R\n(3) 1 1 2\n \n 2R  R  R .R\n2 1 2 1 1 2\n  R\n(4) 2 1 1\n  \n2 1",
+    "answer": "2"
+  },
+  {
+    "question": "The electric field of an electromagnetic wave in 46. A positive ion A and a negative ion B has charges\n6.67 × 10–19 C and 9.6 × 10–10 C, and masses\nfree space is\n19.2 × 10–27 kg and 9 × 10–27 kg respectively. At an\nE = 57 cos[7.5 × 106 t – 5 × 10–3 (3x + 4y)]\ninstant, the ions are separated by a certain distance\n ˆ ˆ\n4i3j N/C. r. At that instant the ratio of the magnitudes of\nelectrostatic force to gravitational force is P × 10–13,\nThe associated magnetic field in Tesla is-\nwhere the value of P is ____.\n(1) B 57 cos [7.5 × 106t – 5 × 10–3 (3x + 4y)]  5kˆ 1\n3108 (Take = 9 × 109 Nm2C–1 and universal\n4\n0\n(2) B 57 cos [7.5 × 106t – 5 × 10–3 (3x + 4y)]  kˆ gravitational constant as 6.67 × 10–11 Nm2 kg–2)\n3108",
+    "answer": "BONUS"
+  },
+  {
+    "question": "5 × 106t – 5 × 10–3 (3x + 4y)]\n 5kˆ 47. Two particles are located at equal distance from\n3108\norigin. The position vectors of those are\n(4) B\n57\ncos[7.5 × 106t – 5 × 10–3 (3x + 4y)]\n kˆ represented by A2ˆ i3nˆ j2kˆ and\n3108\nˆ ˆ ˆ\nB2i2j4pk, respectively. If both the vectors",
+    "answer": "3"
+  },
+  {
+    "question": "The motion of an airplane is represented by\nis____.\nvelocity-time graph as shown below. The distance",
+    "answer": "3"
+  },
+  {
+    "question": "5 second is ____ 48. An ideal gas initially at 0ºC temperature, is\ncompressed suddenly to one fourth of its volume.\nkm.\nIf the ratio of specific heat at constant pressure to\nv(m/sec) that at constant volume is 3/2, the change in\nA\n400\ntemperature due to the thermodynamics process\nis____K.\n200 B",
+    "answer": "273"
+  },
+  {
+    "question": "A force f\nx2yˆ iy2ˆ\nj acts on a particle in a plane\n0 x + y = 10. The work done by this force during a\n2 10 20 30 40 t(sec)\ndisplacement from (0, 0) to (4m, 2m) is _____\n(1) 9 (2) 6\nJoule (round off to the nearest integer)\n(3) 3 (4) 12",
+    "answer": "152"
+  },
+  {
+    "question": "Consider a circular disc of radius 20 cm with\n50.\ncentre located at the origin. A circular hole of a\nradius 5 cm is cut from this disc in such a way that\nthe edge of the hole touches the edge of the disc.\nThe distance of centre of mass of residual or\nremaining disc from the origin will be-\n(1) 2.0 cm (2) 0.5 cm\n(3) 1.5 cm (4) 1.0 cm",
+    "answer": "4"
+  },
+  {
+    "question": "FeO2 2.0VFe3 0.8VFe2 0.5VFe0\n4\n51. The element that does not belong to the same period\nIn the above diagram, the standard electrode\nof the remaining elements (modern periodic table) is:\npotentials are given in volts (over the arrow).\n(1) Palladium\nThe value of E is\nN\n(2) Iridium FeO2/Fe2\n4\n(3) Osmium (1) 1.7 V\n(4) Platinum (2) 1.2 V",
+    "answer": "1"
+  },
+  {
+    "question": "1 V\n(4) 1.4 V\n52. Heat treatment of muscular pain involves radiation E",
+    "answer": "1"
+  },
+  {
+    "question": "Match the LIST-I with LIST-II\nline of H atom is suitable for this ?\nLIST-I LIST-II\nGiven: Rydberg constant\nName reaction Product\nR = 105 cm–1, h = 6.6 × 10–34 J s, c = 3 × 108 m/s) L obtainable\nH\n(1) Paschen series,   3 A. Swarts reaction I. Ethyl benzene\n(2) Lyman series,   1\nB. Sandmeyer‟s reaction II. Ethyl iodide\n(3) Balmer series,   2\nC. Wurtz Fittig reaction III. Cyanobenzene\nL\n(4) Paschen series, 5  3\nD. Finkelstein reaction IV. Ethyl fluoride",
+    "answer": "1"
+  },
+  {
+    "question": "The incorrect statements among the following is\nbelow:\n(1) PH\n3\nshows lower prAoton affinity than NH 3.\n(1) A-II, B-III, C-I, D-IV\n(2) PF exists but NF does not.\n3 5 (2) A-IV, B-I, C-III, D-II\n(3) NO can dimerise easily.\n2 (3) A-IV, B-III, C-I, D-II\n(4) SO can act as an oxidizing agent, but not as a\n2 (4) A-II, B-I, C-III, D-IV\nreducing agent.",
+    "answer": "3"
+  },
+  {
+    "question": "Given below are two statements:\n54. CrCl .xNH can exist as a complex. 0.1 molal\n3 3 Statement I: Fructose does not contain an\naqueous solution of this complex shows a\naldehydic group but still reduces Tollen‟s reagent\ndepression in freezing point of 0.558ºC. Assuming Statement II : In the presence of base, fructose\n100% ionisation of this complex and coordination undergoes rearrangement to give glucose.\nnumber of Cr is 6, the complex will be In the light of the above statements, choose the\n(Given K = 1.86 K kg mol–1) correct answer from the options given below\nf\n(1) Statement I is false but Statement II is true\n(1) [Cr(NH ) ] Cl\n3 6 3\n(2) Both Statement I and Statement II are true\n(2) [Cr(NH ) Cl ] Cl\n3 4 2\n(3) Both Statement I and Statement II are false\n(3) [Cr(NH ) Cl] Cl\n3 5 2\n(4) Statement I is true but Statement II is false\n(4) [Cr(NH ) Cl ]\n3 3 3",
+    "answer": "2"
+  },
+  {
+    "question": "2.8 × 10–3 mol of CO is left after removing 1021 62. The major product of the following reaction is :\n2\nexcess HCHO\nmolecules from its „x‟ mg sample. The mass of\nalkali\nCH CH CH=O ?\n3 2 reflux\nCO taken initially is\n2\nGiven : N = 6.02 × 1023 mol–1 (1) CH –CH –CH –OH\nA 3 2 2\n(1) 196.2 mg (2) 98.3 mg (2)CH –CH–CH=O\n3\n(3) 150.4 mg (4) 48.2 mg CH –OH\n2",
+    "answer": "1"
+  },
+  {
+    "question": "Ice at –5°C is heated to become vapor with 3 2\nCH –OH\n2\ntemperature of 110°C at atmospheric pressure. The\n(4)CH –C–CH=O\n3\nentropy change associated with this process can be\nCH\n2\nobtained from :",
+    "answer": "3"
+  },
+  {
+    "question": "The correct stability order of the following\n(1)  C dT melting  boiling\np 273 373 species/molecules is :\n268K\n273KC H ,fusion H\n(2)  p,m dT m  m,vaporisation\nT T T\n268K f b p\n373KC dT 383KC dT\n  p,m   p,m\nT T\n273K 373K\n383K q\n(3)  C dT rev\np T\n268K\n273K H ,fusion H\n(4)  C dT m  m,vaporisation\np,m T T\n268K f b\n373K 383K\n  C dT   C dT\np,m p,m\n273K 373K",
+    "answer": "2"
+  },
+  {
+    "question": "The d-electronic configuration of an octahedral\nCo(II) complex having magnetic moment of 3.95\nBM is :\n(1) t6 e1 (2) t3 e0\n2g g 2g g\n(3) t5 e2 (4) e4t3\n2g g 2",
+    "answer": "3"
+  },
+  {
+    "question": "The complex that shows Facial – Meridional\nisomerism is\n(1) [Co(NH ) Cl ] (2) [Co(NH ) Cl ]+\n3 3 3 3 4 2\n(3) [Co(en) ]3+ (4) [Co(en) Cl ]+\n3 2 2",
+    "answer": "1"
+  },
+  {
+    "question": "Propane molecule on chlorination under\nphotochemical condition gives two di-chloro\nproducts, “x” and “y”. Amongst “x” and “y”, “x” is\nan optically active molecule. How many tri-chloro\nA products (consider only structural isomers) will be\nobtained from “x” when it is further treated with\nchlorine under the photochemical condition?\n(1) 4 (2) 2\n(3) 5 (4) 3",
+    "answer": "4"
+  },
+  {
+    "question": "What amount of bromine will be required to\nconvert 2 g of phenol into 2, 4, 6-tribromophenol ?\n(Given molar mass in g mol–1 of C, H, O, Br are\n12, 1, 16, 80 respectively)\n(1) 10.22 g (2) 6.0 g\n(3) 4.0 g (4) 20.44 g",
+    "answer": "1"
+  },
+  {
+    "question": "The correct set of ions (aqueous solution) with\nsame colour from the following is :\n(1) V2+, Cr3+, Mn3+ (2) Zn2+, V3+, Fe3+\n(3) Ti4+, V4+, Mn2+ (4) Sc3+, Ti3+, Cr2+",
+    "answer": "1"
+  },
+  {
+    "question": "Given below are two statements : 70. Which among the following react with Hinsberg's\nStatement I : In Lassaigne's test, the covalent\nreagent?\norganic molecules are transformed into ionic\n(A)\nNH\n2 (2)\nN(CH 3)\n2\ncompounds.\nStatement II : The sodium fusion extract of an\n(C) CH –NH (4) N(CH )\n3 2 3 3\norganic compound having N and S gives prussian\nH\nblue colour with FeSO and Na [Fe(CN) ]\n4 4 6 N\n(E)\nIn the light of the above statements, choose the\ncorrect answer from the options given below\nChoose the correct answer from the options given\nN\n(1) Both Statement I and Statement II are true\nbelow :\n(2) Both Statement I and Statement II are false\n(1) B and D only (2) C and D only\n(3) Statement I is false but Statement II is true\n(4) Statement I is true but Statement II is false (3) A, B and E only (4) A, C and E only",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following happens when NH OH is\n4 SECTION-B\nadded gradually to the solution containing 1M A2+\n71. If 1 mM solution of ethylamine produces pH = 9,\nand 1M B3+ ions ?\nGiven : K [A(OH) ] = 9 × 10–10 and then the ionization constant (K b) of ethylamine is\nsp 2\nK [B(OH) ] = 27 × 10–18 at 298 K. L 10–x. The value of x is ________ (nearest integer).\nsp 3\n(1) B(OH) 3 will precipitate before A(OH) 2 [The degree of ionization of ethylamine can be\n(2) A(OH) and B(OH) will precipitate together\n2 3 neglected with respect to unity.]\n(3) A(OH) will precipitate before B(OH)\n2 3\nL",
+    "answer": "7"
+  },
+  {
+    "question": "During \"S\" estimation, 160 mg of an organic\nprecipitation with NH OH\n4",
+    "answer": "1"
+  },
+  {
+    "question": "Match the LIST-I with LIST-II percentage of Sulphur in the given compound is\nA\nLIST-I LIST-II ______ %.\n(Classification of molecules based (Example)\non octet rule) (Given molar mass in g mol–1 of Ba : 137, S : 32,\nA. Molecules obeying octet rule I. NO, NO\n2 O : 16)\nB. Molecules with incomplete II. BCl , AlCl",
+    "answer": "40"
+  },
+  {
+    "question": "Consider the following sequence of reactions to\nD. Molecules with expanded IV. CCl , CO\n4 2 produce major product (A)\noctet\nChoose the correct answer from the options given CH\n3 i) Br, Fe\n2\nbelow : ii) Sn, HCl\n(A)\niii) NaNO, HCl, 273 K\n(1) A-IV, B-II, C-I, D-III NO 2 iv) HPO2 , HO Major Product\n3 2 2\n(2) A-III, B-II, C-I, D-IV\nMolar mass of product (A) is ______ g mol–1.\n(3) A-IV, B-I, C-III, D-II\n(Given molar mass in g mol–1 of C : 12, H : 1,\n(4) A-II, B-IV, C-III, D-I\nO : 16, Br : 80, N : 14, P : 31)",
+    "answer": "1"
+  },
+  {
+    "question": "For the thermal decomposition of N O (g) at\n2 5\nconstant volume, the following table can be\nformed, for the reaction mentioned below :\n2N O (g) → 2N O (g) + O (g)\n2 5 2 4 2\nS.No. Time/s Total pressure / (atm)\n1. 0 0.6\n2. 100 'x'\nx = ________ × 10–3 atm [nearest integer] N\nGiven : Rate constant for the reaction is 4.606 × 10–2 s–1.",
+    "answer": "900"
+  },
+  {
+    "question": "The standard enthalpy and standard entropy of\nE\ndecomposition of N O to NO are 55.0 kJ mol–1\n2 4 2\nand 175.0 J/K/mol respectively. The standard free\nenergy change for this reaction at 25°C in J mol–1\nis _______ (Nearest integer)\nL",
+    "answer": "2850"
+  },
+  {
+    "question": "Let the triangle PQR be the image of the\ntriangle with vertices (1,3), (3,1) and (2, 4) in\n1. The number of non-empty equivalence relations on\nthe set {1,2,3} is : the line x + 2y = 2. If the centroid of PQR is\n(1)6 (2)7 the point (, ), then 15( – ) is equal to :\n(3)5 (4)4 (1)24 (2)19",
+    "answer": "3"
+  },
+  {
+    "question": "Let ƒ : RR be a twice differentiable function 2 3  3 \n 2\nsuch that ƒ(x + y) = ƒ(x) ƒ(y) for all x, y  R. If 1 2 14\nƒ'(0) = 4a and ƒ staisfies ƒ''(x) – 3a ƒ'(x) – ƒ(x) = 0, 216\na > 0, then the area of the region   \n5  3 \nR = {(x,y) | 0  y  ƒ(ax), 0  x  2} is :\n32 2 322 8 24\n(1)e2 – 1 (2)e4 + 1   2 ,   \n15 15 15 3 15\n(3)e4 – 1 (4)e2 + 1\n15( – ) = – 2 + 24 = 22",
+    "answer": "1"
+  },
+  {
+    "question": "Let z, z and z be three complex numbers on the circle\n1 2 3\nSol. f(x + y) = f(x).f(y)\n \n|z| = 1 with arg(z ) , arg(z) = 0 and arg(z ) .\nf(x) = ex f (0) = 4a 1 4 2 3 4\nf (x) = ex   = 4a\n2\nIf z z z z z z  2 , ,   Z, then the\n1 2 2 3 3 1\nSo, f(x) = e4ax\nvalue of 2 + 2 is :\nf (x) – 3af (x) – f (x) = 0\n(1)24 (2)41\n2 – 3a – 1 = 0 (3)31 (4)29",
+    "answer": "4"
+  },
+  {
+    "question": "Using the principal values of the inverse 7. Let a, a, a..... be a G.P. of increasing positive\n1 2 3\ntrigonometric functions the sum of the maximum terms. If aa = 28 and a + a = 29, the a is equal to\nand the minimum values of 16((sec–1x)2 + (cosec–1x)2) 1 5 2 4 6\n(1) 628 (2) 526\nis :\n(3) 784 (4) 812\n(1) 242 (2) 182\n(3) 312 (4) 222",
+    "answer": "3"
+  },
+  {
+    "question": "A coin is tossed three times. Let X denote the\nnumber of times a tail follows a head. If  and 2  a = ar5 = 1 (28)2 28784\ndenote the mean and variance of X, then the value 6 28\nof 64( + 2) is :\nx1 y2 z3\n(1) 51 (2) 48 8. Let L :   and\n1 2 3 4\n(3) 32 (4) 64\nx2 y4 z5",
+    "answer": "2"
+  },
+  {
+    "question": "If T  , then\n2)4 = 0 r 64\nr1\n38µ – 29 + 16 = 0 …(1)\nn  1 \nPQ  L lim   is equal to :\n2 n r1T\nr\n\n (3µ – 2 + 1)3 + (4µ – 3 + 2)4 + (5µ – 4 +\n(1) 1 (2) 0\n2)5 = 0\n50µ – 38 + 21 = 0 …(2) 2 1\n(3) (4)\n3 3\nBy (1) & (2)",
+    "answer": "3"
+  },
+  {
+    "question": "3 3.5 3.5 5.7 \nPoint ,3, \n 3 3 \n2\n  \nlies on the line PQ\n3\n9. The product of all solutions of the equation\n11. From all the English alphabets, five letters are\ne5log ex23 x8, x > 0, is : chosen and are arranged in alphabetical order. The\n(1) e8/5 (2) e6/5 total number of ways, in which the middle letter is\n(3) e2 (4) e ‘M’, is :\n(1) 14950 (2) 6084",
+    "answer": "1"
+  },
+  {
+    "question": "Let x = x(y) be the solution of the differential\n 1\n8 equation y2dxx dy0. If x(1) = 1, then\nt 1 + t 2 = 5  y\n1\n8 x   is :\nnxx = 2\n1 2 5\n1 3\n(1) e (2) e\nxx = e8/5 2 2\n1 2\n(3) 3 – e (4) 3 + e\n3",
+    "answer": "3"
+  },
+  {
+    "question": "A circle C of radius 2 lies in the second quadrant and\n1 touches both the coordinate axes. Let r be the radius\n\nx.e y t.etdt\nof a circle that has centre at the point (2, 5) and\nintersects the circle C at exactly two points. If the set\n1\n\nx.e y tet et C\nof all possible values of r is the interval (, ), then\n1 1 1 1 3 – 2 is equal to :\nx.e y  e y e y C\ny (1) 15 (2) 14\nx = 1, y = 1 (3) 12 (4) 10\n1 1 1",
+    "answer": "1"
+  },
+  {
+    "question": "Let the parabola y = x2 + px – 3, meet the S : (x – 2)2 + (y – 5)2 = r2\n2\nBoth circle intersect at two points\ncoordinate axes at the points P, Q and R. If the\n |r – r | < cc < r + r\ncircle C with centre at (–1, –1) passes through the 1 2 1 2 1 2\n|r – 2| < 5 < 2 + r\npoints P, Q and R, then the area of PQR is :\n 3 < r < 7\n(1) 4 (2) 6\nr  (3, 7)\n(3) 7 (4) 5  = 3,  = 7\n3 – 2 = 15",
+    "answer": "2"
+  },
+  {
+    "question": "Let for ƒ(x) = 7tan8x + 7tan6x – 3tan4x – 3tan2x,\nSol. y = x2 + px – 3\n/4 /4\nI   ƒ(x)dx and I   xƒ(x)dx. Then 7I + 12I\nLet P(, 0), Q(, 0), R(0, –3) 1 2 1 2\n0 0\nCircle with centre (–1, –1) is (x + 1)2 + (y + 1)2 = r2 is equal to :\n(1) 2 (2) \nPasses through (0, –3)\n(3) 1 (4) 2\n12 + (–2)2 = r2 ]",
+    "answer": "3"
+  },
+  {
+    "question": "Let A = {1,2,3,.......,10} and\nx tan7xtan3x/4   (tan7xtan3x)dx\n \n0 m \n0 B :m, n A, m < n and gcd (m, n) =1.\nn \n/4\n0 \ntan3x tan2x1 1tan2x\ndx\nThen n(B) is equal to :\n0\n(1) 31 (2) 36\nPut tanx = t\n(3) 37 (4) 29\n1 t6 t4 1\n t5 t3 dt  ",
+    "answer": "1"
+  },
+  {
+    "question": "Let ƒ(x) be a real differentiable function such that\nn\nƒ(0) = 1 and ƒ(x + y) = ƒ(x)ƒ'(y) + ƒ'(x) ƒ(y) for all\nn(B)\n100\nx, y  R. Then log ƒ(n) is equal to : 1\ne n = 2  \nn1\n2\n(1) 2384 (2) 2525\n1 2\n(3) 5220 (4) 2406 n = 3  , \n3 3",
+    "answer": "2"
+  },
+  {
+    "question": "The area of the region, inside the circle 20. Let the foci of a hyperbola be (1, 14) and (1, –12).\n 2 If it passes through the point (1, 6), then the length\nx–2 3 y2 12 and outside the parabola\nof its latus-rectum is :\ny2 2 3xis 25 24\n(1) (2)\n6 5\n(1) 6 – 8 (2) 3 – 8\n288 144\n(3) 6 – 16 (4) 3 + 8\n(3) (4)\n5 5",
+    "answer": "3"
+  },
+  {
+    "question": "Two balls are selected at random one by one SECTION-B\nwithout replacement from a bag containing 4 white 21. Let the function,\nand 6 black balls. If the probability that the first\n–3ax2 –2, x1\nselected ball is black, given that the second selected\nf(x)\na2 bx, x1\nm\nball is also black, is , where gcd(m, n) = 1, then Be differentiable for all x  R, where a > 1, b R.\nn\nIf the area of the region enclosed by y = f(x) and\nm + n is equal to :\nthe line y = – 20 is  +  3, , ,Z, then the\n(1) 14 (2) 4\nvalue of  +  is ____.\n(3) 11 (4) 13",
+    "answer": "34"
+  },
+  {
+    "question": "Let L :   and\n1 3 –1 0\n(1,–8)\nx2 y z4\nL :   ,  R, be two lines, which\n2 2 0 \n(2,–20) y=–20\nintersect at the point B. If P is the foot of\nperpendicular from the point A(1, 1, –1) on L,\n2\nthen the value of 26 (PB)2 is ____.\n1 2\nArea =   6x2 220 dx(412x20)dx",
+    "answer": "216"
+  },
+  {
+    "question": "If  2r1  , gcd(m, n) =1, then m – n is\n2r2 n – + 1 = 0\nr0\nequal to ______. –1 = µ – 4",
+    "answer": "2035"
+  },
+  {
+    "question": "Let c be the projection vector of bi4k,  > 0,\nC C C 2111 2047\n1  3  5 ...  ˆ ˆ ˆ\non the vector ai2j2k. If |ac|=7, then the\n2 4 6 12 12\n23. Let A be a square matrix of order 3 such that area of the parallelogram formed by the vectors b\ndet(A) = –2 and det(3adj(–6adj(3A))) =2m+n.3mn, and c is ______.",
+    "answer": "16"
+  },
+  {
+    "question": "Given below are two statements :\na\n\nStatement I : In a vernier callipers, one vernier a\n2\n \nscale division is always smaller than one main\n4 8\nscale division.\nq a\nStatement II : The vernier constant is given by   in \n 8\none main scale division multiplied by the number\n0 0\nof vernier scale division.\n0.9 V\nIn the light of the above statements, choose the\n28.\ncorrect answer from the options given below.\n(1)Both Statement I and Statement II are false. R = 1\np\n(2)Statement I is true but Statement II is false.\nR = 2\n(3)Both Statement I and Statement II are true. e\n(4)Statement I is false but Statement II is true.\nSliding contact of a potentiometer is in the middle\nNTA",
+    "answer": "2"
+  },
+  {
+    "question": "3 A (2)1.35 A\ndivision for normal vernier calliper.\n(3)1.0 A (4)0.9 A\nNote: In JA-2016_P-2, Q-6 was present with\nmodified V.C..",
+    "answer": "3"
+  },
+  {
+    "question": "A line charge of length is kept at the center of Sol. The circuit can be considered as\n2\n0.9V\nan edge BC of a cube ABCDEFGH having edge\nlength ‘a’ as shown in the figure. If the density of\nline is C per unit length, then the total electric\n0.5 0.5\nflux through all the faces of the cube will be ____.\n(Take,  as the free space permittivity)\n0\n2\nF\nE\nA D\n0.52  5 10\nG H  R eq 0.5 20.5   10 25 \nB C\n45 9\n  0.9\na a 50 10\n(1) (2)\n8 16\n0 0 0.9\n i 1A\na a 0.9\n(3) (4)\n2 4\n0 0",
+    "answer": "1"
+  },
+  {
+    "question": "Given below are two statements : one is labelled as d\nSol. eAT4 PAT4\nAssertion (A) and the other is labelled as Reason dt\n(R). P (0.2)28004\nsmaller \nAssertion (A) : If Young’s double slit experiment P (0.8)24004\nlarger\nis performed in an optically denser medium than\n1\n161\nair, then the consecutive fringes come closer.\n16\nReason (R) : The speed of light reduces in an\n P = P\nlarger smaller\noptically denser medium than air while its\n31. An amount of ice of mass 10–3 kg and temperature\nfrequency does not change.\n–10°C is transformed to vapour of temperature\nIn the light of the above statements, choose the\n110° by applying heat. The total amount of work\nmost appropriate answer from the options given\nrequired for this conversion is,\nbelow :\n(Take, specific heat of ice = 2100 Jkg–1K–1, specific\n(1) Both (A) and (R) are true and (R) is the correct\nheat of water = 4180 Jkg–1K–1, specific heat of\nexplanation of (A)\nsteam = 1920 Jkg–1K–1, Latent heat of\n(2)(A) is false but (R) is true.\nice = 3.35 × 105 Jkg–1 and Latent heat of steam\n(3) Both (A) and (R) are true but (R) is not the = 2.25 × 106 Jkg–1)\ncorrect explanation of (A) (1)3022 J (2)3043 J\n(4)(A) is true but (R) is false. (3)3003 J (4)3024 J",
+    "answer": "1"
+  },
+  {
+    "question": "35 × 105 = 335 J\nV µ 2 f\nQ = m × S × T = 10–3 × 4180 × 100 = 418 J\nFrequency remains same, 3 W\nQ = m × L = 10–3× 2.25 × 106 = 2250 J\n f  4 V\nµ vac.   vac.\n f med µ Q = m × S × T = 10–3 × 1920 × 10 = 19.2 J\nmed 5 V\n30. Two spherical bodies of same materials having Q = 3043.2 J\nnet\nradii 0.2 m and 0.8 m are placed in same 32. An electron in the ground state of the hydrogen\natmosphere. The temperature of the smaller body is atom has the orbital radius of 5.3 × 10–11 m while\n800 K and temperature of bigger body is 400 K. If that for the electron in third excited state is\nthe energy radiate from the smaller body is E, the 8.48 × 10–10 m. The ratio of the de Broglie\nenergy radiated from the bigger body is (assume, wavelengths of electron in the ground state to that\neffect of the surrounding to be negligible) in excited state is\n(1)256 E (2)E (1)4 (2)9\n(3)64 E (4)16 E (3)3 (4)16",
+    "answer": "2"
+  },
+  {
+    "question": "310114 1  3    |R 1|\n\n n r 184.81011\n4 1 4\n 1 \np \n 1  1 1  3|R | \n1\n 4\n4\n1 1 1 \nNote : Most appropriate answer will be option p     \n2 2|R | |R |\n\n1 2\n(1).\n1 1 1 \n33. In the diagram given below, there are three lenses p  \n \n2 2 |R | |R |\n \nformed. Considering negligible thickness of each 2 1\nof them as compared to [R] and [R], i.e., the radii 1 1 1  1\n1 2 p     \nof curvature for upper and lower surfaces of the 3 3|R |   3|R |\n2 2\nglass lens, the power of the combination is\n1 1 1  1 1 1 \np    \ncontainer eq 3 |R | |R | 2 |R | |R |\n   \n1 2 1 2\nwater\n1 1 1 \n \nglass  \n6 |R | |R |\n \n1 2\nwater\n34. An electron is made to enters symmetrically\nbetween two parallel and equally but oppositely\n1 1 1 \ncharged metal plates, each of 10 cm length. The\n(1)    \n6 |R | |R |\n 1 2  electron emerges out of the field region with a\n1 1 1  horizontal component of velocity 106 m/s. If the\n(2)    \n6 |R | |R | magnitude of the electric between the plates is 9.1\n \n1 2\nV/cm, then the vertical component of velocity of\n1 1 1 \n(3)    electron is\n6 |R | |R |\n \n1 2 (mass of electron = 9.1 × 10–31 kg and charge of\n1 1 1  electron = 1.6 × 10–19 C)\n(4)   \n6 |R | |R |  (1)1 × 106 m/s (2)0\n1 2\n(3)16 × 106 m/s (4)16 × 104 m/s",
+    "answer": "2"
+  },
+  {
+    "question": "61019\nV  9.1102107\ny 9.11031\nV 16106\ny\n35. Which of the following resistivity () v/s\ntemperature (T) curves is most suitable to be used\nin wire bound standard resistors?\n(1)\nT(K)\n0\n4\n)mc\n(\n\n(2)\nT(K)\n0\n)mc\n(\n\n(3)\nT(K)\n0\n)mc\n(\n\n(4)\nT(K) 0\n)mc\n(\n\n36. A closed organ and an open organ tube filled by\ntwo different gases having same bulk modulus but\ndifferent densities  and  respectively. The\n1 2\nfrequency of 9th harmonic of closed tube is\nidentical with 4th harmonic of open tube. If the\nlength of the closed tube is 10 cm and the density\nratio of the gases is  :  = 1 : 16, then the length\n1 2\nof the open tube is :\n20 15\n(1) cm (2) cm\n7 7\n20 15\n(3) cm (4) cm\n9 9",
+    "answer": "3"
+  },
+  {
+    "question": "A uniform circular disc of radius ‘R’ and mass ‘M’\nis rotating about an axis perpendicular to its plane\nand passing through its centre. A small circular\npart of radius R/2 is removed from the original disc\nas shown in the figure. Find the moment of inertia\nof the remaining part of the original disc about the\naxis as given above.\nR R\n7 9\n(1) MR2 (2) MR2\n32 32",
+    "answer": "1"
+  },
+  {
+    "question": "If B is magnetic field and \n0\nis permeability of free\nMR2\n\n4\n\n 2\n\n\nMR2\nspace, then the dimensions of (B/) is\nSol. I       0\n2  2 4  2   (1)MT–2A–1 (2)L–1 A\n \n  (3)LT–2A–1 (4)ML2T–2A–1\n13",
+    "answer": "2"
+  },
+  {
+    "question": "A small point of mass m is placed at a distance 2R\n B\n[ni] L1A1\nfrom the centre ‘O’ of a big uniform solid sphere  \nµ\n \n0\nof mass M and radius R. The gravitational force on\n41. A bob of mass m is suspended at a point O by a\n‘m’ due to M is F.A spherical part of radius R/3 is\n1\nlight string of length l and left to perform vertical\nremoved from the big sphere as shown in the\nmotion (circular) as shown in figure. Initially, by\nfigure and the gravitational force on m due to\napplying horizontal velocity  at the point ‘A’. the\nremaining part of M is found to be F. The value of 0\n2\nstring becomes slack when, the bob reaches at the\nratio F : F is\n1 2\npoint ‘D’. The ratio of the kinetic energy of the bob\nM\nP at the points B and C is ______.\nO\nm\nD\n2R\nC\n(1)16 : 9 (2)11 : 10\n60°\n(3)12 : 11 (4)12 : 9\nO",
+    "answer": "3"
+  },
+  {
+    "question": "The work functions of cesium (Cs) and lithium (Li) 2 2 B 2\nmetals are 1.9 eV and 2.5 eV, respectively. If we 5mg mg\n   KE\nincident a light of wavelength 550 nm on these two 2 2 B\nmetal surface, then photo-electric effect is possible\nKE 2mg\nB\nfor the case of\n1 1\n(1)Li only (2)Cs only mv2  mv2 mg\n2 C 2 D 2\n(3)Neither Cs nor Li (4)Both Cs and Li\n1",
+    "answer": "2"
+  },
+  {
+    "question": "25 KE\n 550  B 2\nKE\nC\n5\n42. Given below are two statements : 44. A parallel-plate capacitor of capacitance 40F is\nStatement-I : The equivalent emf of two nonideal\nconnected to a 100 V power supply. Now the\nbatteries connected in parallel is smaller than either\nintermediate space between the plates is filled with\nof the two emfs.\nStatement-II : The equivalent internal resistance a dielectric material of dielectric constant K = 2.\nof two nonideal batteries connected in parallel is Due to the introduction of dielectric material, the\nsmaller than the internal resistance of either of the\nextra charge and the change in the electrostatic\ntwo batteries.\nIn the light of the above statements, choose the energy in the capacitor, respectively, are -\ncorrect answer from the options given below. (1)2 mC and 0.2 J (2)8 mC and 2.0 J\n(1)Statement-I is true but Statement-II is false\n(3)4 mC and 0.2 J (4)2 mC and 0.4 J\n(2)Both Statement-I and Statement-II are false",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following circuits represents a  CV2(21)\nforward biased diode ? 2\n0V\n1 1\n CV2  4010610000\n2 2\n(A)\n= 0.2 J\n–10V\n45. Given is a thin convex lens of glass (refractive\n–15V index ) and each side having radius of curvature\nR. One side is polished for complete reflection. At\n(B) what distance from the lens, an object be placed on\n–10V the optic axis so that the image gets formed on the\nobject itself.\n2V\n(1)R/ (2)R/(2–3)\n(3)R (4)R/(2–1)\n(C)\n4V",
+    "answer": "4"
+  },
+  {
+    "question": "Three conductions of same length having thermal\nconductivity k, k and k are connected as shown in\n46. Two soap bubbles of radius 2 cm and 4 cm,\n1 2 3\nfigure.\nrespectively, are in contact with each other. The\n100°C °C 0°C\nradius of curvature of the common surface, in cm,\n1.k\nis ______ . 1 3.k\n2.k 3",
+    "answer": "4"
+  },
+  {
+    "question": "The driver sitting inside a parked car is watching\nfigure. In steady state condition, the value of  is\nvehicles approaching from behind with the help of\n__________ °C.\nhis side view mirror, which is a convex mirror with\n(Given : k = 60 Js–1m–1K–1, k = 120 Js–1m–1K–1, k =\nradius of curvature R = 2 m. Another car 1 2 3\n135 Js–1m–1K–1)\napproaches him from behind with a uniform speed",
+    "answer": "40"
+  },
+  {
+    "question": "3\n100°C",
+    "answer": "8"
+  },
+  {
+    "question": "The position vectors of two 1 kg particles, (A) and\n(v )2  a  (v )2  a 0\nv3 I v2 I u3 0 u2 0 (B), are given by\na 2 2 r\n\n\nt2ˆ\ni\ntˆ\nj\ntkˆ\nm\nI  v2  v2 A 1 2 3\nv2 v3 I u3 0\nand r\n\n\ntˆ\ni\nt2ˆ\nj\ntkˆ\nm, respectively ;\n2 2v2 B 1 2 3\na  v2  v2\nI v I u3 0 ( 1= 1 m/s2,  2 = 3n m/s,  3 = 2 m/s,  1 = 2 m/s,\n = –1 m/s2,  = 4p m/s), where t is time, n and p\n225 1 1 2 24 24 2 3\n      2525\nare constants, At t = 1s, |V ||V | and velocities\n24 25 25 (24)3 25 25 A B\n2 2 V and V of the particles are orthogonal to each\nA B\na  \nI 24.25 24 other. At t = 1 s, the magnitude of angular\nmomentum of particle (A) with respect to the\n2 24 2\na   \nI 24 25 25 position of particle (B) is L kgm2s–1. The value\nof L is _____.\n2\n100a  1008",
+    "answer": "90"
+  },
+  {
+    "question": "A particle is projected at an angle of 30° from\nhorizontal at a speed of 60 m/s. The height\ntraversed by the particle in the first second is h\n0\nand height traversed in the last second, before it\nreaches the maximum height, is h. The ratio h : h\n1 0 1\nis ______.\n[Take, g = 10 m/s2]",
+    "answer": "5"
+  },
+  {
+    "question": "A solution of aluminium chloride is electrolysed OH\nfor 30 minutes using a current of 2A. The amount Rcis Rtrans\nIt has 4 stereoisomers  \nof the aluminium deposited at the cathode is ___ . Scis Strans\n[Given : molar mass of aluminium and chlorine are\n54. Which of the following electronegativity order is\n27 g mol–1 and 35.5 g mol–1 respectively, Faraday\nincorrect?\nconstant = 96500 C mol–1].\n(1)Al < Mg < B < N (2)Al < Si < C < N\n(1)1.660 g (2)1.007 g\n(3)0.336 g (4)0.441 g (3)Mg < Be < B < N (4)S < Cl < O < F",
+    "answer": "3"
+  },
+  {
+    "question": "5 2 2.5 3 3.5 4.0\n27 96500\nOn\nw = 0.336 g,\npauling\n52. Which of the following statement is not true for\nscale\nradioactive decay ?\n(1) Amount of radioactive substance remained\nNa Mg Al Si P S Cl\n1\nafter three half lives is th of original amount.\n8 (E.N.)= 0.9 1.2 1.5 1.8 2.1 2.5 3.0\n(2) Decay constant does not depend upon Correct order Mg < Al < B < N\n55. Lanthanoid ions with 4f7 configuration are :\ntemperature.\n(A)Eu2+ (B)Gd3+ (C)Eu3+ (D)Tb3+\n(3) Decay constant increases with increase in\n(E)Sm2+\ntemperature.\nChoose the correct answer from the options given\n1\n(4)Half life is ln 2 times of .\nrateconstant below :\n(1)(A) and (B) only (2)(A) and (D) only",
+    "answer": "3"
+  },
+  {
+    "question": "How many different stereoisomers are possible for",
+    "answer": "1"
+  },
+  {
+    "question": "Match List-I with List-II 59. Radius of the first excited state of Helium ion is\nList-I List-II\ngiven as :\n(A) Al3+ < Mg2+ < Na+ < F– (I) Ionisation\na  radius of first stationary state of hydrogen atom.\nEnthalpy 0\n(B) B < C < O < N (II) Metallic a a\n(1) r 0 (2) r 0 (3) r = 4a (4) r = 2a\n0 0\ncharacter 2 4\n(C) B < Al < Mg < K (III) Electronegativity",
+    "answer": "4"
+  },
+  {
+    "question": "Given below are two statements :\nbelow :\n(1)A-IV, B-I, C-III, D-II (2) A-II, B-III, C-IV, D-I Statement I : CH 3 – O – CH 2 – Cl will undergo\n(3)A-IV, B-I, C-II, D-III (4) A-III, B-IV, C-II, D-I\nS 1 reaction though it is a primary halide.\nN",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following acids is a vitamin ?\nIn the light of the above statements, choose the\n(1)Adipic acid (2)Aspartic acid\n(3)Ascorbic acid (4)Saccharic acid most appropriate answer from the options given",
+    "answer": "3"
+  },
+  {
+    "question": "A liquid when kept inside a thermally insulated\ncorrect.\nclosed vessel at 25°C was mechanically stirred\n(2) Both Statement I and Statement II are\nfrom outside. What will be the correct option for incorrect\n(3) Statement I is correct but Statement II is\nthe following thermodynamic parameters ?\nincorrect\n(1)U > 0, q = 0, w > 0 (2) U = 0, q = 0, w = 0\n(4) Both Statement I and Statement II are\n(3)U < 0, q = 0, w > 0 (4) U = 0, q < 0, w > 0 correct.",
+    "answer": "4"
+  },
+  {
+    "question": "Given below are two statements : 63. The IUPAC name of the following compound is :\nStatement I : One mole of propyne reacts with\nCOOH COOCH3\nCH3–CH–CH2–CH2–CH–CH3\nexcess of sodium to liberate half a mole of H gas.\n2 (1)2-Carboxy-5-methoxycarbonylhexane.\nStatement II : Four g of propyne reacts with\n(2)Methyl-6-carboxy-2,5-dimethylhexanoate.\nNaNH to liberate NH gas which occupies\n2 3 (3)Methyl-5-carboxy-2-methylhexanoate.\n224 mL at STP.\n(4)6-Methoxycarbonyl-2,5-dimethylhexanoic acid.\nIn the light of the above statements, choose the\nNTA",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following electrolyte can be sued to\n(3) Statement I is incorrect but Statement II is\nobtain H S O by the process of electrolysis?\ncorrect 2 2 8\n(4) Both Statement I and Statement II are (1)Dilute solution of sodium sulphate\ncorrect.\n(2)Dilute solution of sulphuric acid",
+    "answer": "1"
+  },
+  {
+    "question": "The compounds which give positive Fehling’s test\nare :\n4 0.1mole\n0.1mole O\n40 2240mole CHO\nCH3\n(A) (B)\nStatement I is correct but Statement II is\n(C)HOCH –CO–(CHOH) –CH –OH\nincorrect 2 3 2\nO\n62. A vessel at 1000 K contains CO with a pressure of CHO\n2\n(D) CH3–C–H (E)\n0.5 atm. Some of CO is converted into CO on\n2\nChoose the CORRECT answer from the options\naddition of graphite. If total pressure at equilibrium\ngiven below :\nis 0.8 atm, then K is :\nP\n(1)(A),(C) and (D) Only (2) (A),(D) and (E) Only\n(1)0.18 atm (2) 1.8 atm (3) 0.3 atm (4) 3 atm.\n(3)(C), (D) and (E) Only (4) (A), (B) and (C) Only",
+    "answer": "2"
+  },
+  {
+    "question": "5 –\nHOCH – C – (CHOH) – CHOH\n0.5–x 2x 2 3 2\nP total = 0.5 + x = 0.8 O\nx = 0.3 (E)\n(0.6)2\nK  = 1.8 All gives positive Fehling test\nP 0.2\n3\n66. In which of the following complexes the CFSE,  Sol.\n0\nwill be equal to zero? NO 2 NO 2 NH 2\nBr2 /AcOH\nSn\n(1)[Fe(NH 3) 6]Br 2 (2)[Fe(en) 3]Cl 3 Br HCl Br\n(3)K 4[Fe(CN) 6] (4)K 3[Fe(SCN) 6] NaNO2 + HCl\n+",
+    "answer": "4"
+  },
+  {
+    "question": "From the magnetic behaviour of [NiCl ]2–\n4\nE.C. of Fe3+ – [Ar]3d5\n(paramagnetic) and [Ni(CO) ] (diamagnetic), choose\n4\nW.F.L. t3 the correct geometry and oxidation state.\n2g\n(1)[NiCl ]2– : NiII, square planar\nCalculation of CFSE 4\n= (–0.4 × 3 + 0.6 × 2)  [Ni(CO) ] : Ni(0), square planar\n0 4\n= 0  0 (2)[NiCl 4]2– : NiII, tetrahedral\n67. Arrange the following solutions in order of their\n[Ni(CO) ] : Ni(0), tetrahedral\n4\nincreasing boiling points.\n(3)[NiCl ]2– : NiII, tetrahedral\n4\n(i)10–4 M NaCl (ii)10–4 M Urea\n[Ni(CO) ] : NiII, square planar\n4\n(iii)10–3 M NaCl (iv)10–2 M NaCl\n(4)[NiCl ]2– : Ni(0), tetrahedral\n4\n(1)(ii) < (i) < (iii) < (iv) (2) (ii) < (i)  (iii) < (iv)\n[Ni(CO) ] : Ni(0), square planar\n(3)(i) < (ii) < (iii) < (iv) (4) (iv) < (iii) < (i) < (ii) 4",
+    "answer": "2"
+  },
+  {
+    "question": "The incorrect statements regarding geometrical\n68. The products formed in the following reaction\nsequence are : isomerism are :\nNO 2 (i) Br2, AcOH (A)Propene shows geometrical isomerism.\n(ii) Sn, HCl\nA + B\n(B)Trans isomer has identical atoms/groups on the\n(iii) NaNO2, HCl, 273 K\n(iv)C2H5OH opposite sides of the double bond.\n(1) OH OEt (2) OEt (C) Cis-but-2-ene has higher dipole moment than\n, ,\nBr Br Br\nCH 3–COOH trans-but-2-ene.\n(D) 2-methylbut-2-ene shows two geometrical\nOH\n, , isomers.\n(3) Br\nCH3–CHO\n(4) Br\nCH 3–CHO\n(E) Trans-isomer has lower melting point that cis",
+    "answer": "3"
+  },
+  {
+    "question": "5103\nSol. n = n = = 10–3\nCl AgCl\ngiven below : 143.5\n(1)(A), (D) and (E) only (2) (C), (D) and (E) only 10335.5\n% Cl = × 100 = 19.72\n180103\n(3)(B) and (C) only (4)(A) and (E) only\n73. The number of molecules/ions that show linear",
+    "answer": "1"
+  },
+  {
+    "question": "Some CO gas was kept in a sealed container at a\n2\npressure of 1 atm and at 273 K. This entire amount sp3d sp3d\nof CO gas was later passed through an aqueous\n2\nsolution of Ca(OH) . The excess unreacted\n2\nCa(OH) was later neutralized with 0.1 M of 74. A  B\n2\n40 mL HCl. If the volume of the sealed container\nThe molecule A changes into its isomeric form B\nof CO was x, then x is _____ cm3 (nearest\n2\ninteger). by following a first order kinetics at a temperature\n[Given : The entire amount of CO (g) reacted with\n2 of 1000 K. If the energy barrier with respect to\nexactly half the initial amount of Ca(OH) present\n2 reactant energy for such isomeric transformation is\nin the aqueous solution.] 191.48 kJ mol–1 and the frequency factor is 1020,",
+    "answer": "45"
+  },
+  {
+    "question": "314 J K–1 mol–1]\nexcess Ca(OH) = n\n2",
+    "answer": "69"
+  },
+  {
+    "question": "693\n40 Sol. t =\nn × 2 = 0.1 × × 1 1/2 K\n1000\nK = Ae–Ea/RT\nn = 2 × 10–3\n191.48103\nVolume of CO 2 = 2 × 10–3 × 22400 = 44.8 cm3 = 1020 × e 8.3141000\n72. In Carius method for estimation of halogens,\n= 1020 × e–23.031 = 1020 × – eln 10 × 10\n180 mg of an organic compound produced\n143.5 mg of AgCl. The percentage composition of 1020\n= = 1010 sec.\nchlorine in the compound is _______ %.\n1010\n[Given : molar mass in g mol–1 of Ag : 108,\n0.693\nt = = 6.93 × 10–11\nCl = 35.5] 1/2 1010",
+    "answer": "20"
+  },
+  {
+    "question": "3 × 10–12 sec.\n5\n75. Consider the following sequence of reactions :\n(i) Sn + HCl\nNO 2 (ii) NaNO2, HCl\n0°C\nA\n(iii) Cu2Cl2 Product\n(iv)Na, Ether\nMolar mass of the product formed (A) is\n________g mol–1 .",
+    "answer": "154"
+  },
+  {
+    "question": "A coin is tossed three times. Let X denote the\n1. The number of non-empty equivalence relations on number of times a tail follows a head. If  and 2\nthe set {1,2,3} is : denote the mean and variance of X, then the value\n(1) 6 (2) 7\nof 64( + 2) is :\n(3) 5 (4) 4\n(1) 51 (2) 48",
+    "answer": "3"
+  },
+  {
+    "question": "Let ƒ : RR be a twice differentiable function",
+    "answer": "2"
+  },
+  {
+    "question": "Let a, a, a..... be a G.P. of increasing positive\n1 2 3\nƒ'(0) = 4a and ƒ staisfies ƒ''(x) – 3a ƒ'(x) – ƒ(x) = 0, terms. If aa = 28 and a + a = 29, the a is equal to\n1 5 2 4 6\na > 0, then the area of the region\n(1) 628 (2) 526\nE\nR = {(x,y) | 0  y  ƒ(ax), 0  x  2} is : (3) 784 (4) 812\n(1) e2 – 1 (2) e4 + 1",
+    "answer": "3"
+  },
+  {
+    "question": "Let L :   and",
+    "answer": "1"
+  },
+  {
+    "question": "Let the triangle PQR be the image of the x2 y4 z5\nL :   be two lines. Then which\n2 3 4 5\ntriangle with vertices (1,3), (3,1) and (2, 4) in\nthe line x + 2y = 2. If the centroid Lof PQR is of the following points lies on the line of the\nshortest distance between L and L ?\nthe point (, ), then 15( – ) is equal to : 1 2\n 5   1\n(1) 24 (2) 19 (1)  ,7,1  (2) 2,3, \n 3   3\n(3) 21 (A4) 22\n8 1 14 22",
+    "answer": "4"
+  },
+  {
+    "question": "Let z, z and z be three complex numbers on the circle\n1 2 3",
+    "answer": "4"
+  },
+  {
+    "question": "The product of all solutions of the equation\nIf z z z z z z 2  2 , ,   Z, then the e5log ex23 x8, x > 0, is :\n1 2 2 3 3 1\n(1) e8/5 (2) e6/5\nvalue of 2 + 2 is :\n(3) e2 (4) e\n(1) 24 (2) 41",
+    "answer": "1"
+  },
+  {
+    "question": "If T  , then\nr 64\nr1\n5. Using the principal values of the inverse\nn  1 \ntrigonometric functions the sum of the maximum lim   is equal to :\nand the minimum values of 16((sec–1x)2 + (cosec–1x)2) n r1T r \nis : (1) 1 (2) 0\n(1) 242 (2) 182 2 1\n(3) (4)\n3 3\n(3) 312 (4) 222",
+    "answer": "3"
+  },
+  {
+    "question": "From all the English alphabets, five letters are 16. Let ƒ(x) be a real differentiable function such that\nchosen and are arranged in alphabetical order. The ƒ(0) = 1 and ƒ(x + y) = ƒ(x)ƒ'(y) + ƒ'(x) ƒ(y) for all\ntotal number of ways, in which the middle letter is 100\nx, y  R. Then log ƒ(n) is equal to :\n‘M’, is : e\nn1\n(1) 14950 (2) 6084\n(1) 2384 (2) 2525\n(3) 4356 (4) 5148\n(3) 5220 (4) 2406",
+    "answer": "4"
+  },
+  {
+    "question": "Let x = x(y) be the solution of the differential\n17. Let A = {1,2,3,.......,10} and\n 1\nequation y2dx x y dy0. If x(1) = 1, then B  m\nn\n:m, n A, m N < n and gcd (m, n) =1  .\n1 Then n(B) is equal to :\nx   is :\n2\n(1) 31 (2) 36\n1 3 (3) 37 (4) 29\n(1) e (2) e\n2 2 E",
+    "answer": "1"
+  },
+  {
+    "question": "The area of the region, inside the circle",
+    "answer": "3"
+  },
+  {
+    "question": "Let the parabola y = x2 + px – 3, meet the\nL\ncoordinate axes at the points P, Q and R. If the y2 2 3xis\ncircle C with centre at (–1, –1) passes through the\n(1) 6 – 8 (2) 3 – 8\npoints P, Q and R, then the area of PQR is :\nL (3) 6 – 16 (4) 3 + 8\n(1) 4 (2) 6",
+    "answer": "3"
+  },
+  {
+    "question": "Two balls are selected at random one by one",
+    "answer": "2"
+  },
+  {
+    "question": "A circle C of radius 2 lies in the second quadrant and\nand 6 black balls. If the probability that the first\ntouches both the coordinate axes. Let r be the radius\nselected ball is black, given that the second selected\nof a circle that has centre at the point (2, 5) and\nm\nintersects the circle C at exactly two points. If the set ball is also black, is , where gcd(m, n) = 1, then\nn\nof all possible values of r is the interval (, ), then\nm + n is equal to :\n3 – 2 is equal to :\n(1) 14 (2) 4\n(1) 15 (2) 14\n(3) 11 (4) 13\n(3) 12 (4) 10",
+    "answer": "1"
+  },
+  {
+    "question": "Let the foci of a hyperbola be (1, 14) and (1, –12).\n15. Let for ƒ(x) = 7tan8x + 7tan6x – 3tan4x – 3tan2x, If it passes through the point (1, 6), then the length\n/4 /4 of its latus-rectum is :\nI   ƒ(x)dx and I   xƒ(x)dx. Then 7I + 12I\n1 2 1 2\n0 0 25 24\n(1) (2)\nis equal to : 6 5\n(1) 2 (2)  288 144\n(3) (4)\n5 5\n(3) 1 (4) 2",
+    "answer": "3"
+  },
+  {
+    "question": "Let L :   and\n21. Let the function, 1 3 –1 0\n–3ax2 –2, x1 x2 y z4\nf(x) L :   ,  R, be two lines, which\na2 bx, x1 2 2 0 \nBe differentiable for all x  R, where a > 1, b R. intersect at the point B. If P is the foot of\nIf the area of the region enclosed by y = f(x) and\nperpendicular from the point A(1, 1, –1) on L,\nthe line y = – 20 is  +  3, , ,Z, then the 2\nthen the value of 26 (PB)2 is ____.\nvalue of  +  is ____.",
+    "answer": "34"
+  },
+  {
+    "question": "If  2r1  , gcd(m, n) =1, then m – n is 25. Let c be the projection vector of bˆ i4kˆ ,  > 0,\n2r2 n\nr0\nequal to ______. on the vector aˆ i2ˆ j2kˆ . If",
+    "answer": "2035"
+  },
+  {
+    "question": "Let A be a square matrix of order 3 such that\ndet(A) = –2 and det(3adj(–6adj(3A))) =2m+n.3mn,\nm > n. Then 4m + 2n is equal to _____.",
+    "answer": "34"
+  },
+  {
+    "question": "9 V\n26. Given below are two statements : 28.\nStatement I : In a vernier callipers, one vernier R = 1\np\nscale division is always smaller than one main\nR = 2\nscale division. e\nStatement II : The vernier constant is given by N\nSliding contact of a potentiometer is in the middle\none main scale division multiplied by the number\nof the potentiometer wire having resistance R =\nP\nof vernier scale division.\n1 as shown in the figure. An external resistance\nIn the light of the above statements, choose the\nof R = 2 is connected via the sliding contact.\neE\ncorrect answer from the options given below.\n(1) 0.3 A (2) 1.35 A\n(1) Both Statement I and Statement II are false.\n(3) 1.0 A (4) 0.9 A\n(2) Statement I is true but Statement II is false.",
+    "answer": "3"
+  },
+  {
+    "question": "Given below are two statements : one is labelled as\n(4) Statement I is false but Statement II is true.\nAssertion (A) and the other is labelled as Reason\nNTA",
+    "answer": "2"
+  },
+  {
+    "question": "A line charge of length is kept at the center of\n2\nair, then the consecutive fringes come closer.\nan edge BC of a cube ABCDEFGH having edge\nA Reason (R) : The speed of light reduces in an\nlength ‘a’ as shown in the figure. If the density of\noptically denser medium than air while its\nline is C per unit length, then the total electric\nfrequency does not change.\nflux through all the faces of the cube will be ____.\nIn the light of the above statements, choose the\n(Take,  as the free space permittivity) most appropriate answer from the options given\n0\nF below :\nE\nA D (1) Both (A) and (R) are true and (R) is the correct\nG explanation of (A)\nH\n(2) (A) is false but (R) is true.\nB C\n(3) Both (A) and (R) are true but (R) is not the\na a\ncorrect explanation of (A)\n(1) (2)\n8 16\n0 0 (4) (A) is true but (R) is false.\na a",
+    "answer": "1"
+  },
+  {
+    "question": "Two spherical bodies of same materials having",
+    "answer": "1"
+  },
+  {
+    "question": "2 m and 0.8 m are placed in same\natmosphere. The temperature of the smaller body is\n800 K and temperature of bigger body is 400 K. If\n1\n\nthe energy radiate from the smaller body is E, the\n1 1 1 \n(2)    \nenergy radiated from the bigger body is (assume, 6 |R | |R |\n \n1 2\neffect of the surrounding to be negligible)\n1 1 1 \n(1) 256 E (2) E (3)   \n6 |R | |R |\n \n(3) 64 E (4) 16 E 1 2",
+    "answer": "2"
+  },
+  {
+    "question": "An amount of ice of mass 10–3 kg and temperature 6 |R | |R | \n1 2\n–10°C is transformed to vapour of temperature",
+    "answer": "2"
+  },
+  {
+    "question": "An electron is made to enters symmetrically\nrequired for this conversion is,\nbetween two parallel and equally but oppositely\n(Take, specific heat of ice = 2100 Jkg–1K–1, specific charged metal plates, each of 10 cm length. The\nheat of water = 4180 Jkg–1K–1, specific heat of\nelectron emerges out of the field region with a\nsteam = 1920 Jkg–1K–1, Latent heat of horizontal component of velocity 106 m/s. If the\nice = 3.35 × 105 Jkg–1 and Latent heat of steam\nmagnitude of the electric between the plates is 9.1\n= 2.25 × 106 Jkg–1)\nV/cm, then the vertical component of velocity of\n(1) 3022 J (2) 3043 J\nelectron is\n(3) 3003 J (4) 3024 J (mass of electron = 9.1 × 10–31 kg and charge of",
+    "answer": "2"
+  },
+  {
+    "question": "6 × 10–19 C)\n32. An electron in the ground state of the hydrogen (1) 1 × 106 m/s (2) 0\natom has the orbital radius of 5.3 × 10–11 m while (3) 16 × 106 m/s (4) 16 × 104 m/s\nthat for the electron in third excited state is 8.48 ×",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following resistivity () v/s\nelectron in the ground state to that in excited state\ntemperature (T) curves is most suitable to be used\nis\nin wire bound standard resistors?\n(1) 4 (2) 9\n(3) 3 (4) 16",
+    "answer": "1"
+  },
+  {
+    "question": "In the diagram given below, there are three lenses\n0\nformed. Considering negligible thickness of each\nof them as compared to [R] and [R], i.e., the radii\n1 2\nof curvature for upper and lower surfaces of the\nglass lens, the power of the combination is\ncontainer\nwater\nglass\nwater\n1 1 1 \n(1)    \n6 |R | |R |  \n1 2\n2\n)mc\n(\n\n(2)\nT(K)\n0\n)mc\n(\n\n(3)\nT(K)\n0\n)mc\n(\n\n(4)\nT(K) 0\n)mc\n(\n\nN\nE\nL\nL\nA\n",
+    "answer": "1"
+  },
+  {
+    "question": "A closed organ and an open organ tube filled by\nO\nm\ntwo different gases having same bulk modulus but 2R\ndifferent densities  and  respectively. The (1) 16 : 9 (2) 11 : 10\n1 2\nfrequency of 9th harmonic of closed tube is (3) 12 : 11 (4) 12 : 9\nidentical with 4th harmonic of open tube. If the",
+    "answer": "3"
+  },
+  {
+    "question": "The work functions of cesium (Cs) and lithium (Li)\nratio of the gases is  :  = 1 : 16, then the length metals are 1.9 eV and 2.5 eV, respectively. If we\n1 2\nof the open tube is : incident a light of wavelength 550 nm on these two\nN\n20 15 metal surface, then photo-electric effect is possible\n(1) cm (2) cm\n7 7 for the case of\n20 15 (1) Li only (2) Cs only\n(3) cm (4) cm\n9 9 (3) Neither Cs nor Li (4) Both Cs and Li\nE",
+    "answer": "3"
+  },
+  {
+    "question": "A uniform circular disc of radius ‘R’ and mass ‘M’ 40. If B is magnetic field and  is permeability of free\n0\nis rotating about an axis perpendicular to its plane space, then the dimensions of (B/) is\n0\nand passing through its centre. A small circular L (1) MT–2A–1 (2) L–1 A\npart of radius R/2 is removed from the original disc (3) LT–2A–1 (4) ML2T–2A–1\nas shown in the figure. Find the moment of inertia",
+    "answer": "2"
+  },
+  {
+    "question": "A bob of mass m is suspended at a point O by a\naxis as given above. light string of length l and left to perform vertical\nmotion (circular) as shown in figure. Initially, by\nR R\nA applying horizontal velocity  at the point ‘A’. the\n0\nstring becomes slack when, the bob reaches at the\npoint ‘D’. The ratio of the kinetic energy of the\n7 9\n(1) MR2 (2) MR2\n32 32 bob at the points B and C is ______.\nD\n17 13\n(3) MR2 (4) MR2\nC\n32 32\n60°",
+    "answer": "4"
+  },
+  {
+    "question": "A small point of mass m is placed at a distance 2R\n60°\nfrom the centre ‘O’ of a big uniform solid sphere\nB\nof mass M and radius R. The gravitational force on\n\nA 0\n‘m’ due to M is F.A spherical part of radius R/3 is\n1\nremoved from the big sphere as shown in the\n(1) 2 (2) 1\nfigure and the gravitational force on m due to\n(3) 4 (4) 3\nremaining part of M is found to be F. The value of\n2",
+    "answer": "1"
+  },
+  {
+    "question": "Given below are two statements :\n1 2\n3\n\nStatement-I : The equivalent emf of two nonideal (1) (B), (D) and (E) only\nbatteries connected in parallel is smaller than either (2) (A) and (D) only\nof the two emfs. (3) (B), (C) and (E) only\nStatement-II : The equivalent internal resistance (4) (C) and (E) only\nof two nonideal batteries connected in parallel is",
+    "answer": "3"
+  },
+  {
+    "question": "A parallel-plate capacitor of capacitance 40F is\ntwo batteries. connected to a 100 V power supply. Now the\nIn the light of the above statements, choose the intermediate space between the plates is filled with\ncorrect answer from the options given below. a dielectric material of dielectric constant K = 2.\nN\n(1) Statement-I is true but Statement-II is false Due to the introduction of dielectric material, the\n(2) Both Statement-I and Statement-II are false extra charge and the change in the electrostatic\n(3) Both Statement-I and Statement-II are true energy in the capacitor, respectively, are -\n(1) 2 mC and 0.2 J (2) 8 mC and 2.0 J\n(4) Statement-I is false but Statement-II is true\nE\n(3) 4 mC and 0.2 J (4) 2 mC and 0.4 J",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following circuits represents a\n45. Given is a thin convex lens of glass (refractive\nforward biased diode ?\nindex ) and each side having radius of curvature\n0V L\nR. One side is polished for complete reflection. At\n(A) what distance from the lens, an object be placed on\n–10V\nthe optic axis so that the image gets formed on the\nL\nobject itself.\n–15V\n(1) R/ (2) R/(2–3)\n(B) A (3) R (4) R/(2–1)\n–10V",
+    "answer": "4"
+  },
+  {
+    "question": "Two soap bubbles of radius 2 cm and 4 cm,\nrespectively, are in contact with each other. The\n(C)\n4V radius of curvature of the common surface, in cm,\nis ______ .\n–10V",
+    "answer": "4"
+  },
+  {
+    "question": "The driver sitting inside a parked car is watching\n(D)\nvehicles approaching from behind with the help of\n–5V\nhis side view mirror, which is a convex mirror with\n2V radius of curvature R = 2 m. Another car\napproaches him from behind with a uniform speed\n(E)\nof 90 km/hr. When the car is at a distance of 24 m\nfrom him, the magnitude of the acceleration of the\nChoose the correct answer from the options given image of the side view mirror is ‘a’. The value of\nbelow : 100a is ______ m/s2.\n4\n",
+    "answer": "8"
+  },
+  {
+    "question": "Three conductions of same length having thermal\nconductivity k, k and k are connected as shown in\n1 2 3\nfigure.\n100°C °C 0°C\n1. k\n1 3. k\n2. k 3\n2\nArea of cross sections of 1st and 2nd conductor are\nsame and for 3rd conductor it is double of the 1st\nN\nconductor. The temperatures are given in the\nfigure. In steady state condition, the value of  is\n__________ °C.\n(Given : k = 60 Js–1m–1K–1, k = 120 Js–1m–1K–1, k =\n1 2 3\n135 Js–1m–1K–1) E",
+    "answer": "40"
+  },
+  {
+    "question": "The position vectors of two 1 kg particles, (A) and\n(B), are given by\nL\nr\n\n\nt2ˆ\ni\ntˆ\nj\ntkˆ\nm\nA 1 2 3\nand r\n\n\ntˆ\ni\nt2ˆ\nj\ntkˆ\nm, respectively ;\nB 1 2 3\nL\n( = 1 m/s2,  = 3n m/s,  = 2 m/s,  = 2 m/s,\n1 2 3 1\n = –1 m/s2,  = 4p m/s), where t is time, n and p\n2 3\nare constants, At t = 1s, |VA||V | and velocities\nA B\nV and V of the particles are orthogonal to each\nA B\nother. At t = 1 s, the magnitude of angular\nmomentum of particle (A) with respect to the\nposition of particle (B) is L kgm2s–1. The value\nof L is _____.",
+    "answer": "90"
+  },
+  {
+    "question": "A particle is projected at an angle of 30° from\nhorizontal at a speed of 60 m/s. The height\ntraversed by the particle in the first second is h\n0\nand height traversed in the last second, before it\nreaches the maximum height, is h. The ratio h : h\n1 0 1\nis ______.\n[Take, g = 10 m/s2]",
+    "answer": "5"
+  },
+  {
+    "question": "Lanthanoid ions with 4f7 configuration are :\n51. A solution of aluminium chloride is electrolysed (A)Eu2+ (B)Gd3+ (C)Eu3+ (D)Tb3+\nfor 30 minutes using a current of 2A. The amount (E)Sm2+\nof the aluminium deposited at the cathode is ___ . Choose the correct answer from the options given\nN\n[Given : molar mass of aluminium and chlorine are below :\n27 g mol–1 and 35.5 g mol–1 respectively, Faraday (1)(A) and (B) only (2)(A) and (D) only\nconstant = 96500 C mol–1]. (3)(B) and (E) only (4)(B) and (C) only\n(1)1.660 g (2)1.007 g",
+    "answer": "1"
+  },
+  {
+    "question": "336 g (4)0.441 g 56. Match List-I with List-II",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following statement is not true for (A) Al3+ < Mg2+ < Na+ < F– (I) Ionisation\nradioactive decay ? Enthalpy\nL\n(1) Amount of radioactive substance remained\n(B) B < C < O < N (II) Metallic\n1 character\nafter three half lives is th of original amount.\n8\n(C) B < Al < Mg < K (III) Electronegativity\n(2) Decay constant does not dLepend upon\n(D) Si < P < S < Cl (IV) Ionic radii\ntemperature.\nChoose the correct answer from the options given\n(3) Decay constant increases with increase in\nbelow :\ntemperature.\nA (1)A-IV, B-I, C-III, D-II (2) A-II, B-III, C-IV, D-I\n1\n(4)Half life is ln 2 times of . (3)A-IV, B-I, C-II, D-III (4) A-III, B-IV, C-II, D-I\nrateconstant",
+    "answer": "3"
+  },
+  {
+    "question": "Which of the following acids is a vitamin ?\n53. How many different stereoisomers are possible for\n(1)Adipic acid (2)Aspartic acid\nthe given molecule ?\n(3)Ascorbic acid (4)Saccharic acid\nCH CHCHCHCH\n3 3\n|",
+    "answer": "3"
+  },
+  {
+    "question": "A liquid when kept inside a thermally insulated\n(1)3 (2)1\nclosed vessel at 25°C was mechanically stirred\n(3)2 (4)4\nfrom outside. What will be the correct option for",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following electronegativity order is\n(1)U > 0, q = 0, w > 0 (2) U = 0, q = 0, w = 0\nincorrect?\n(3)U < 0, q = 0, w > 0 (4) U = 0, q < 0, w > 0\n(1)Al < Mg < B < N (2)Al < Si < C < N",
+    "answer": "1"
+  },
+  {
+    "question": "Radius of the first excited state of Helium ion is (2) Both Statement I and Statement II are\ngiven as : incorrect\na  radius of first stationary state of hydrogen atom. (3) Statement I is incorrect but Statement II is\n0\na a correct\n(1) r 0 (2) r 0 (3) r = 4a (4) r = 2a\n0 0\n2 4 (4) Both Statement I and Statement II are correct.",
+    "answer": "4"
+  },
+  {
+    "question": "Given below are two statements : 62. A vessel at 1000 K contains CO with a pressure of\n2\nStatement I : CH – O – CH – Cl will undergo 0.5 atm. Some of CO is converted into CO on\n3 2 2\nN\nS 1 reaction though it is a primary halide. addition of graphite. If total pressure at equilibrium\nN\nCH is 0.8 atm, then K is :\n3 P\n|\nStatement II : CH CCH Cl will not (1) 0.18 atm (2) 1.8 atm (3) 0.3 atm (4) 3 atm.\n3 2\n|",
+    "answer": "2"
+  },
+  {
+    "question": "The IUPAC name of the following compound is :\nundergo S 2 reaction very easily though it is a\nN\nCOOH COOCH3\nprimary halide.\nCH3–CH–CH2–CH2–CH–CH3\nIn the light of the above statements, choose the (1) 2-Carboxy-5-methoxycarbonylhexane.\nmost appropriate answer from the options given L (2) Methyl-6-carboxy-2,5-dimethylhexanoate.\nbelow : (3) Methyl-5-carboxy-2-methylhexanoate.\n(1) Statement I is incorrect but Statement II is (4) 6-Methoxycarbonyl-2,5-dimethylhexanoic acid.\ncorrect. Allen Ans. Bonous\nL\n(2) Both Statement I and Statement II are NTA",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following electrolyte can be sued to\n(3) Statement I is correct but Statement II is obtain H 2S 2O 8 by the process of electrolysis?\nA\nincorrect (1) Dilute solution of sodium sulphate\n(4) Both Statement I and Statement II are (2) Dilute solution of sulphuric acid\ncorrect. (3) Concentrated solution of sulphuric acid\n(4) Acidified dilute solution of sodium sulphate.",
+    "answer": "4"
+  },
+  {
+    "question": "Given below are two statements :",
+    "answer": "3"
+  },
+  {
+    "question": "The compounds which give positive Fehling’s test are :\nStatement I : One mole of propyne reacts with\nO\nexcess of sodium to liberate half a mole of H gas. CHO\n2 CH3\n(A) (B)\nStatement II : Four g of propyne reacts with\n(C) HOCH –CO–(CHOH) –CH –OH\n2 3 2\nNaNH to liberate NH gas which occupies\n2 3\nO\nCHO\n224 mL at STP.\n(D) CH3–C–H (E)\nIn the light of the above statements, choose the Choose the CORRECT answer from the options\nmost appropriate answer from the options given given below :\nbelow: (1) (A),(C) and (D) Only (2) (A),(D) and (E) Only\n(3) (C), (D) and (E) Only (4) (A), (B) and (C) Only\n(1) Statement I is correct but Statement II is",
+    "answer": "3"
+  },
+  {
+    "question": "In which of the following complexes the CFSE,  70. The incorrect statements regarding geometrical\n0\nisomerism are :\nwill be equal to zero?\n(A) Propene shows geometrical isomerism.\n(1) [Fe(NH ) ]Br (2) [Fe(en) ]Cl\n3 6 2 3 3\n(B) Trans isomer has identical atoms/groups on the\n(3) K [Fe(CN) ] (4) K [Fe(SCN) ]\n4 6 3 6\nopposite sides of the double bond.",
+    "answer": "4"
+  },
+  {
+    "question": "Arrange the following solutions in order of their\ntrans-but-2-ene.\nincreasing boiling points.\n(D) 2-methylbut-2-ene shows two geometrical\nN\n(i) 10–4 M NaCl (ii) 10–4 M Urea\nisomers.\n(iii) 10–3 M NaCl (iv) 10–2 M NaCl (E) Trans-isomer has lower melting point that cis\n(1) (ii) < (i) < (iii) < (iv) (2) (ii) < (i)  (iii) < (iv) isomer.\n(3) (i) < (ii) < (iii) < (iv) (4) (iv) < (iii) < (i) < (ii) Choose the CORRECT answer from the options\nE\ngiven below :",
+    "answer": "1"
+  },
+  {
+    "question": "The products formed in the following reaction (1) (A), (D) and (E) only (2) (C), (D) and (E) only\nsequence are : (3) (B) and (C) only (4) (A) and (E) only\nNO 2 (i) Br2, AcOH L",
+    "answer": "1"
+  },
+  {
+    "question": "Some CO gas was kept in a sealed container at a\n2\n(iv) C2H5OH\npressure of 1 atm and at 273 K. This entire amount\nOH OEt OEt\n(1) (2) L of CO gas was later passed through an aqueous\n, , 2\nCH –COOH\nBr Br Br 3 solution of Ca(OH) 2. The excess unreacted\nOH\nCa(OH) was later neutralized with 0.1 M of\n2\n, ,\n(3)\nBr\nCH3–CHO A(4)\nBr\nCH 3–CHO 40 mL HCl. If the volume of the sealed container\nof CO was x, then x is _____ cm3 (nearest",
+    "answer": "3"
+  },
+  {
+    "question": "From the magnetic behaviour of [NiCl ]2– integer).\n4\n(paramagnetic) and [Ni(CO) 4] (diamagnetic), choose [Given : The entire amount of CO 2(g) reacted with\nthe correct geometry and oxidation state.\nexactly half the initial amount of Ca(OH) present\n2\n(1) [NiCl ]2– : NiII, square planar in the aqueous solution.]\n4",
+    "answer": "45"
+  },
+  {
+    "question": "In Carius method for estimation of halogens,\n(2) [NiCl ]2– : NiII, tetrahedral\n4\n180 mg of an organic compound produced\n[Ni(CO) ] : Ni(0), tetrahedral\n4 143.5 mg of AgCl. The percentage composition of\n(3) [NiCl ]2– : NiII, tetrahedral chlorine in the compound is _______ %.\n4\n[Ni(CO) ] : NiII, square planar [Given : molar mass in g mol–1 of Ag : 108,\n4\nCl = 35.5]\n(4) [NiCl ]2– : Ni(0), tetrahedral\n4",
+    "answer": "20"
+  },
+  {
+    "question": "The number of molecules/ions that show linear\ngeometry among the following is _______ .\nSO , BeCl , CO , N –, NO , F O, XeF , NO +, I –, O\n2 2 2 3 2 2 2 2 3 3",
+    "answer": "6"
+  },
+  {
+    "question": "A  B\nThe molecule A changes into its isomeric form B\nby following a first order kinetics at a temperature\nof 1000 K. If the energy barrier with respect to\nN\nreactant energy for such isomeric transformation is\n191.48 kJ mol–1 and the frequency factor is 1020,\nthe time required for 50%, molecules of A to\nbecome B is ______ picoseconds (nearest integer).\nE\n[R = 8.314 J K–1 mol–1]",
+    "answer": "69"
+  },
+  {
+    "question": "Consider the following sequence of reactions :\n(i) Sn + HCl\nNO 2 (ii) NaNO2, HCl L\n0°C\nA\n(iii) Cu2Cl2 Product\n(iv) Na, Ether\nMolar mass of the product formed (A) is\nL\n________g mol–1 .",
+    "answer": "154"
+  }
+]
